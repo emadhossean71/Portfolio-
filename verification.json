@@ -1,0 +1,283 @@
+{
+  "passed": true,
+  "framework": {
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "typescript": "5.9.3",
+    "tailwind": "4.1.18",
+    "router": "App Router",
+    "strictTypeScript": true
+  },
+  "checks": {
+    "productionBuild": true,
+    "typecheck": true,
+    "developmentHTTP": 200,
+    "productionHTTP": 200,
+    "serverRenderedContent": true,
+    "duplicateIds": [],
+    "missingPageHTTP": 404,
+    "localCVHTTP": 200,
+    "localFontsHTTP": 200
+  },
+  "layout": {
+    "clientWidth": 1380,
+    "documentWidth": 1380,
+    "font": "Roboto, Arial, sans-serif",
+    "headerPosition": "fixed",
+    "milestones": 8,
+    "navHeight": 72,
+    "nextScripts": 7,
+    "skills": 5,
+    "skillsOpacity": "1",
+    "stats": 3,
+    "whatsapp": "/assets/whatsapp.svg",
+    "width": 1395
+  },
+  "responsive": [
+    {
+      "clientWidth": 305,
+      "documentWidth": 305,
+      "footerColumns": 1,
+      "navHeight": 64,
+      "statsColumns": 1,
+      "width": 320
+    },
+    {
+      "clientWidth": 375,
+      "documentWidth": 375,
+      "footerColumns": 1,
+      "navHeight": 64,
+      "statsColumns": 1,
+      "width": 390
+    },
+    {
+      "clientWidth": 753,
+      "documentWidth": 753,
+      "footerColumns": 2,
+      "navHeight": 68,
+      "statsColumns": 3,
+      "width": 768
+    },
+    {
+      "clientWidth": 1009,
+      "documentWidth": 1009,
+      "footerColumns": 2,
+      "navHeight": 72,
+      "statsColumns": 3,
+      "width": 1024
+    },
+    {
+      "clientWidth": 1380,
+      "documentWidth": 1380,
+      "footerColumns": 2,
+      "navHeight": 72,
+      "statsColumns": 3,
+      "width": 1395
+    }
+  ],
+  "scrollReveal": {
+    "opacityBefore": "0",
+    "opacityAfter": "1",
+    "revealed": true
+  },
+  "interactions": {
+    "dropdownClick": true,
+    "dropdownEnter": true,
+    "dropdownSpace": true,
+    "mobileMenu": true,
+    "menuEscape": true,
+    "contactDialog": true,
+    "footerContact": true,
+    "contactEscape": true,
+    "focusReturned": true
+  },
+  "browserErrors": [],
+  "beforeContactConfiguration": {
+    "messageSaveStatus": true,
+    "whatsappToast": true
+  },
+  "contactsUpdate": {
+    "date": "2026-11-19",
+    "productionBuild": true,
+    "typeScriptBuildCheck": true,
+    "productionHTTP": 200,
+    "socialLinksMatchedInHTML": 5,
+    "socialLinksMatchedInBrowser": 5,
+    "instagram": "https://www.instagram.com/hosseini5823?jplx=MW11ZXkxN2FxaTQ3OQ==",
+    "email": "mailto:emadhossean71@hotmail.com",
+    "linkedin": "https://linkedin.com/in/emad-aghahosseini-47780115b",
+    "github": "https://github.com/emadhossean71",
+    "whatsapp": "https://wa.me/989134099243",
+    "emailDraftCTAVisible": true,
+    "browserErrors": []
+  },
+  "uiRefinements": {
+    "productionBuild": true,
+    "typeScriptBuildCheck": true,
+    "figmaTitleColors": {
+      "neutral": "#a8b7ca",
+      "accent": "#f6ad35",
+      "skills": [
+        "Core",
+        "Skills"
+      ],
+      "experience": [
+        "Research /",
+        "Experience"
+      ],
+      "about": [
+        "About",
+        "Me"
+      ]
+    },
+    "visualCheck": {
+      "about": {
+        "alignment": "flex-start",
+        "imageTop": 2395.897705078125,
+        "textTop": 2395.897705078125
+      },
+      "headings": [
+        {
+          "id": "skills-title",
+          "parts": [
+            {
+              "color": "rgb(168, 183, 202)",
+              "text": "Core"
+            },
+            {
+              "color": "rgb(246, 173, 53)",
+              "text": "Skills"
+            }
+          ]
+        },
+        {
+          "id": "experience-title",
+          "parts": [
+            {
+              "color": "rgb(168, 183, 202)",
+              "text": "Research /"
+            },
+            {
+              "color": "rgb(246, 173, 53)",
+              "text": "Experience"
+            }
+          ]
+        },
+        {
+          "id": "about-title",
+          "parts": [
+            {
+              "color": "rgb(168, 183, 202)",
+              "text": "About"
+            },
+            {
+              "color": "rgb(246, 173, 53)",
+              "text": "Me"
+            }
+          ]
+        }
+      ],
+      "research": {
+        "accordionBackground": "rgb(11, 19, 36)",
+        "accordionBorder": "oklab(0.773927 -0.00856307 -0.0306854 / 0.15)",
+        "accordionTitle": "rgb(215, 222, 231)",
+        "cardBackground": "rgb(11, 19, 36)",
+        "cardBorder": "oklab(0.773927 -0.00856307 -0.0306854 / 0.15)",
+        "cardTitle": "rgb(215, 222, 231)"
+      },
+      "socialLinks": 5
+    },
+    "responsive": [
+      {
+        "clientWidth": 305,
+        "documentWidth": 305,
+        "imageBottom": 1390.96875,
+        "imageTop": 1133.96875,
+        "textTop": 1422.96875,
+        "width": 320
+      },
+      {
+        "clientWidth": 375,
+        "documentWidth": 375,
+        "imageBottom": 1279.9375,
+        "imageTop": 952.9375,
+        "textTop": 1311.9375,
+        "width": 390
+      },
+      {
+        "clientWidth": 1009,
+        "documentWidth": 1009,
+        "imageBottom": 1035.96875,
+        "imageTop": 645.96875,
+        "textTop": 645.96875,
+        "width": 1024
+      }
+    ],
+    "accordionOpened": true,
+    "accordionClosed": true,
+    "browserErrors": []
+  },
+  "runtimeCompatibilityFix": {
+    "testedNode": "22.6.0",
+    "before": {
+      "tailwind": "4.3.5",
+      "magicString": "1.4.5",
+      "error": "ERR_REQUIRE_ESM"
+    },
+    "after": {
+      "tailwind": "4.1.18",
+      "tailwindPostcss": "4.1.18",
+      "magicString": "0.30.21",
+      "postcssRequire": "passed"
+    },
+    "productionBuild": true,
+    "typeScriptBuildCheck": true,
+    "httpChecks": [
+      {
+        "port": 4174,
+        "pageHTTP": 200,
+        "css": [
+          {
+            "status": 200,
+            "bytes": 61582
+          }
+        ]
+      },
+      {
+        "port": 4173,
+        "pageHTTP": 200,
+        "css": [
+          {
+            "status": 200,
+            "bytes": 48009
+          }
+        ]
+      }
+    ],
+    "globalNodeInstallationChanged": false
+  },
+  "cvIntegration": {
+    "viewer": "/cv",
+    "originalPDF": "/Emad_Aghahosseini_CV.pdf",
+    "filename": "Emad_Aghahosseini_CV.pdf",
+    "bytes": 69422,
+    "sha256": "809f7df47a4f75e176a1e6073600fd0302f5344d0afcc6eafc731a90f98ba064",
+    "previewPageCount": 2,
+    "cvPageHTTP": 200,
+    "previewImagesHTTP": [
+      200,
+      200
+    ],
+    "pdfHTTP": 200,
+    "headerAndHeroPointToViewer": true,
+    "browserImagesLoaded": [
+      true,
+      true
+    ],
+    "originalPDFBrowserDownloadVerified": true,
+    "originalPDFDownloadedHashMatched": true,
+    "productionBuild": true,
+    "typeScriptBuildCheck": true,
+    "previewRendering": "static page images generated from the supplied original PDF"
+  }
+}
